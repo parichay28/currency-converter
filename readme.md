@@ -5,3 +5,8 @@ A simple currency converter built with react native, redux and redux saga (minim
 ## Installation
 
 Just clone the repository and run `yarn install` and you're good to go :)
+
+
+
+![](https://github.com/parichay28/currency-converter/blob/master/currency_converter.gif)
+
